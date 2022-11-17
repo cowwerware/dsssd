@@ -1245,7 +1245,7 @@ local CollectAllDrops = COB("Utility", {
 	["HoverText"] = "Collect drops"
 })
 
-infonotify("Vape", "Credit scepty#2087", 15)
+infonotify("Vape", "Enjoy the flagless", 15)
 
 local Shaders = COB("Render", {
 	["Name"] = "Shaders",
