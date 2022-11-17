@@ -977,11 +977,11 @@ function checklagback()
 	return isnetworkowner(hrp)
 end
 
-GuiLibrary["MainGui"].ScaledGui.ClickGui.Version.Text = "LcWare"
-GuiLibrary["MainGui"].ScaledGui.ClickGui.MainWindow.TextLabel.Text = "LCWare"
-GuiLibrary["MainGui"].ScaledGui.ClickGui.Version.Version.Text = "LcWare"
+GuiLibrary["MainGui"].ScaledGui.ClickGui.Version.Text = "COWWERWARES SMOOOTHHH"
+GuiLibrary["MainGui"].ScaledGui.ClickGui.MainWindow.TextLabel.Text = "EEEE"
+GuiLibrary["MainGui"].ScaledGui.ClickGui.Version.Version.Text = "EEEE"
 GuiLibrary["MainGui"].ScaledGui.ClickGui.Version.Position = UDim2.new(1, -175 - 20, 1, -25)
-infonotify("LcWare", "Loaded Fine", 5)
+infonotify("Cowwerware smooth edition", "Loaded Fine", 5)
 
 local CustomFly = COB("Blatant", {
 	["Name"] = "CustomFly",
